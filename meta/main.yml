@@ -1,0 +1,13 @@
+galaxy_info:
+  author: digimokan
+  description: "Install and configure the FreeBSD Linux Binary-Compatibility Layer"
+  license: "MIT"
+  min_ansible_version: 2.7
+  platforms:
+    - name: FreeBSD
+      versions:
+        - all
+  galaxy_tags:
+    - freebsd
+    - linux_compatibility
+

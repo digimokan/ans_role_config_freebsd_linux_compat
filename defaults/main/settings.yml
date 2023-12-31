@@ -1,0 +1,3 @@
+# command to run to check if FreeBSD Linux Compat is running
+freebsd_linux_compat_check_cmd: 'ls /compat/linux/'
+
